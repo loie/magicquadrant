@@ -1,0 +1,29 @@
+{
+  "name": "magicquadrant",
+  "version": "0.0.1",
+  "description": "Magic Quadrant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loie/magicquadrant.git"
+  },
+  "keywords": [
+    "machine",
+    "learning"
+  ],
+  "author": "Lorenz Merdian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loie/magicquadrant/issues"
+  },
+  "homepage": "https://github.com/loie/magicquadrant#readme",
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "@types/node": "^11.11.3"
+  }
+}
